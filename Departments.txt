@@ -1,0 +1,3 @@
+Department No. : 1  /  Department Name : IT  /  LocationKandy
+Department No. : 001  /  Department Name : Academin  /  LocationColombo
+Department No. : hr  /  Department Name : hrname  /  Locationkandh

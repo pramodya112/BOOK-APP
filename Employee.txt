@@ -1,0 +1,27 @@
+
+
+Employee No.  : 2
+Employee Name : tara
+DOB           : 1020-09-09
+Department    : 097654332
+Designation   : hr
+Employee No.  : 1
+Employee Name : Alix
+DOB           : 2000-09-09
+Department    : 0774567890
+Designation   : Developer
+Employee No.  : 0001
+Employee Name : George
+DOB           : 2000/01/12
+Department    : 0712356785
+Designation   : Marketing Coordinator
+Employee No.  : 0002
+Employee Name : Jane
+DOB           : 2002/03/17
+Department    : 
+Designation   : 
+Employee No.  : 0002
+Employee Name : kamal
+DOB           : 2000-09-08
+Department    : 09876543
+Designation   : employee
