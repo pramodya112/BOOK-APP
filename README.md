@@ -66,6 +66,7 @@ It also includes an **Admin Panel** for managing books and user data efficiently
 - Any Java IDE (IntelliJ IDEA, Eclipse, or NetBeans)
 
 📁 Project Structure
+
 BookStoreApp/
 │
 ├── src/
@@ -91,7 +92,6 @@ BookStoreApp/
 │
 ├── README.md
 └── pom.xml *(if using Maven)*
-
 
 Add UI previews or console outputs here.
 
