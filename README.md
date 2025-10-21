@@ -91,7 +91,7 @@ BookStoreApp/
 │   └── bookstore_db.sql
 │
 ├── README.md
-└── pom.xml *(if using Maven)*
+└── pom.xml
 
 Add UI previews or console outputs here.
 
